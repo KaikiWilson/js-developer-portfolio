@@ -1,10 +1,10 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Kaiki Wilson",
+  "photo": "https://avatars.githubusercontent.com/u/122503095?s=400&u=fb6b4ab98ad55f673bb427c993b91c3769f490eb&v=4",
+  "job": "Front-End Developer",
+  "location": "Fortaleza - CE",
+  "phone": "(85) 99408-0643",
+  "email": "kaikiwilson.contato@gmail.com",
   "skills": {
     "hardSkills": [
       {
@@ -12,67 +12,68 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "Js",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "name": "Html",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
       },
       {
         "name": "React",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "name": "Css",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
       },
       {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "Sql",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
+      },
+      {
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
       }
     ],
     "softSkills": [
-      "Empatia",
-      "Liderança",
+      "Comunicativo",
       "Trabalho em equipe",
+      "Resolução de problemas",
       "Flexibilidade",
-      "Organização"
+      "Organização",
+      "Responsabilidade em prazos",
+      "Foco em resultados",
+      "Proatividade"
     ]
   },
   "languages": [
-    "Português BR",
+    "Português BR (Nativo)",
     "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Espanhol (básico)"
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Site que possibilita registrar hábitos do dia a dia e armazena-los",
+      "url": "https://github.com/KaikiWilson/Habits",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Clone do antigo layout da página de login do facebook, recriado com Html, Css e Php",
+      "url": "https://github.com/KaikiWilson/Recreating-Facebook",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
+      "name": "Front End Developer / Autônomo",
       "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "description": "Venho focado em evoluir profissionalmente como desenvolvedor desde 2022, estudando por diferentes plataformas com acesso a diversos cursos, dentre eles Javascript, desenvolvimento Fullstack Typescript, Cybersecurity, UX Designer, dentre outros (tudo na plataforma da DIO). Como também praticando e fixando os conhecimentos com projetos e desáfios que vou procurando na internet para ser realizado. Sempre busco conhecimento e meu foco é o cargo de Front End Jr, porém estudo Fullstack."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-    },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Funcionário de TI / Brava Brazil",
+      "period": "2023 - até o momento",
+      "description": "• Criação de relatórios personalizados com a finalidade de aumentar a eficiência das vendas e cumprimentos de metas da empresa através da linguagem SQL para banco de dados. • Trabalho diário com Views no banco de dados utilizando o software de sistema de ERP integrado ao Business Integrator conhecido como Winthor. • Comunicação, organização e trabalho em equipe com companheiro analista de dados, sócios e diretoria da empresa para o melhor andamento dos projetos"
     }
   ]
 }
