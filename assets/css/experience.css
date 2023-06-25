@@ -4,16 +4,46 @@
     margin: 0;
     padding: 0;
     list-style: none;
+    transition: .25s;
+}
+
+.experience .title {
+    transition: .25s;
+}
+
+.experience .title:hover {
+    font-size: 30px;
+    transition: .25s;
 }
 
 .experience li {
     margin-bottom: 1rem;
+    border-left: 3px solid cyan;
+    padding: 1rem;
+    transition: .25s;
+}
+
+.experience li:hover{
+    font-size: 20px;
+    transition: .25s;
+}
+
+.experience li p {
+    transition: .25s;
+}
+
+.experience li p:hover {
+    padding: .7rem;
+    background-color: rgba(156, 125, 228, 0.527);
+    border-radius: 20px;
+    transition: .25s;
 }
 
 .experience li .period {
     display: flex;
     flex-direction: row;
     align-items: center;
+    transition: .25s;
 }
 
 .experience li .period::before {

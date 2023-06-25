@@ -14,6 +14,24 @@
     border-color: #55569E;
 }
 
+.acordeon.open:nth-child(3),
+.acordeon:hover:nth-child(3) {
+    background-color: #a200ff88;
+    border-color: #a200ff88;
+}
+
+.acordeon.open:nth-child(4),
+.acordeon:hover:nth-child(4) {
+    background-color: #ff05ea79;
+    border-color: #ff05ea79;
+}
+
+.acordeon.open:nth-child(5),
+.acordeon:hover:nth-child(5) {
+    background-color: #052bff79;
+    border-color: #052bff79;
+}
+
 .acordeon .trigger {
     display: flex;
     flex-direction: row;
